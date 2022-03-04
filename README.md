@@ -1,1 +1,1 @@
-# 202110_itw_lab_python
+# 아이티윌 K-Digital 1기 Python Programming
